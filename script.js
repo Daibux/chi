@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "See u nigger";
+  titleElement.innerHTML = "See u nigger, Happy Valentines!!!";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
@@ -47,7 +47,7 @@ function generateMessage(noCount) {
     "Nigga please",
     "Don't do this to me :(",
     "chi",
-    "Gumaga nakumu.",
+    "Gumaga nakumu T_T",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
